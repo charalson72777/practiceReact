@@ -1,3 +1,5 @@
+import React from 'react';
+
 const layout = ( props ) => (
     <div>Toolbar, SideDrqwer, Backdrop</div>
     <main>
